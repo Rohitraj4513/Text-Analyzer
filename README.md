@@ -29,3 +29,12 @@ Run the Django development server:
 python manage.py runserver
 
 Access the app at http://127.0.0.1:8000/.
+
+screenshot 1
+
+![Screenshot 2024-09-21 172229](https://github.com/user-attachments/assets/1f5f2d5e-503c-42dd-a865-0efb854af4bd)
+
+screenshot 2
+
+
+![Screenshot 2024-09-21 172340](https://github.com/user-attachments/assets/1eca93b0-4407-46ea-ae61-b93c5b004faf)
